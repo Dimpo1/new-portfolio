@@ -33,10 +33,10 @@
 
 .btn-primary {
   padding: 15px;
-  color: rgb(199, 191, 191);
+  color: white;
   background-image: url("pic4.jpg");
   background-color: #dae5e1;
-  border: 1px solid rgb(199, 191, 191);
+  border: 1px solid white;
   /*font-weight: bold;*/
   box-shadow: 1px 1px rgba(128, 128, 128, 0.637);
 }
