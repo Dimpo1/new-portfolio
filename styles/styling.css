@@ -74,15 +74,23 @@ h3 {
 }
 
 @media (max-width: 900px) {
+  .Home {
+    justify-content: center; /* Center items vertically when screen size is smaller */
+  }
+
+  .col-6 {
+    margin: auto;
+  }
+
   .description {
     text-align: center;
-    margin: 0;
-    padding: 0;
   }
-  .Home {
-    background-color: #aadcdd;
+
+  h3 {
+    font-size: 25px;
   }
-  h1 {
-    font-size: 50px;
+
+  p {
+    font-size: 18px;
   }
 }
