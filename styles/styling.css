@@ -48,3 +48,27 @@
   border: 1px solid white;
   transition: 125ms ease-in-out;
 }
+
+.btn-success {
+  color: #00b9bd;
+  background-color: white;
+  border: 1px solid #00b9bd;
+}
+
+.btn-success:hover {
+  color: white;
+  background-color: #00b9bd;
+  border: 1px solid white;
+  transition: 125ms ease-in-out;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+h3 {
+  font-size: 35px;
+  font-family: "Poppins", sans-serif;
+  margin: 30px 0;
+}
