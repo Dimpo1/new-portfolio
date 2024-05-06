@@ -62,14 +62,18 @@
   transition: 125ms ease-in-out;
 }
 .About h1 {
-  font-size: 98px;
+  font-size: 46px;
   font-family: "DM Serif Display", serif;
   font-weight: 400;
   font-style: normal;
 }
+
 .About {
-  background-color: #aadcdd;
-  color: aqua;
+  padding: 100px 30px;
+}
+
+.About-content {
+  margin: 30px;
 }
 
 p {
@@ -94,6 +98,11 @@ h3 {
 
   .description {
     text-align: center;
+  }
+
+  .About {
+    text-align: center;
+    padding: 0;
   }
 
   h3 {
