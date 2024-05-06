@@ -61,6 +61,16 @@
   border: 1px solid white;
   transition: 125ms ease-in-out;
 }
+.About h1 {
+  font-size: 98px;
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.About {
+  background-color: #aadcdd;
+  color: aqua;
+}
 
 p {
   font-size: 16px;
